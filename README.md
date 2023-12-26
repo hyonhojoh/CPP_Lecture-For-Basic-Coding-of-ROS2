@@ -7,3 +7,24 @@
 
 
 ### https://www.youtube.com/watch?v=wpk7AM6FPRc&list=PLMcUoebWMS1nzhlx-NbD4KBGEP1UCUDF_&index=1
+
+
+### Basic Syntax of C++
+1. Intro & Variable
+2. Basic Syntax & Debigging
+3. Function
+4. Pointer & Reference
+5. OOP part 1 & part 2
+6. Inheritance
+7. Polymorphism
+
+### Advanced
+8. Operator Overloading
+9. Generic Programming
+10. STL (Standard Template Library)
+
+### Summary
+11. Wrap up - Final Summary
+
+### Additional
+12. Wrap up - Additional Materials
