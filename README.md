@@ -19,9 +19,3 @@
 8. Operator Overloading
 9. Generic Programming
 10. STL (Standard Template Library)
-
-### Summary
-11. Wrap up - Final Summary
-
-### Additional
-12. Wrap up - Additional Materials
